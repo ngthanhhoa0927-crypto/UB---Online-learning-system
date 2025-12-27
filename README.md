@@ -16,7 +16,7 @@ Business Analyst
 
 
 ## Tools
-- StarUML / WhiteStarUML
+- StarUML
 - Draw.io
-- GitHub
-- Microsoft Office (for BRD/SRS documentation)
+- Figma
+- Github
